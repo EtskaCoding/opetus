@@ -1,0 +1,6 @@
+main: opetus.etska.main
+author: etska
+version: 1.0
+commands:
+  komento:
+  
